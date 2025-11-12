@@ -221,4 +221,4 @@ MIT License – see `LICENSE` file.
 
 
 ## Citation
-Soon
+[![DOI](https://zenodo.org/badge/1081502331.svg)](https://doi.org/10.5281/zenodo.17591590)
