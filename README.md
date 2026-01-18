@@ -508,3 +508,4 @@ MIT License – see `LICENSE` file.
 
 
 ## Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18288695.svg)](https://doi.org/10.5281/zenodo.18288695)
